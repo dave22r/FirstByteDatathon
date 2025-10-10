@@ -7,7 +7,7 @@ Data-driven analysis to identify the optimal strategic partnership for FlexField
 FlexField Fitness experienced declining membership due to competition from budget gyms and digital platforms like Peloton. The company needed to determine which partnership—food delivery, athleisure apparel, or sports supplements—would best improve customer loyalty and create compelling joint products.
 
 ## Technologies Used
-- **Python 3.x**: pandas, NumPy, scikit-learn, statsmodels, scipy
+- **Python**: pandas, NumPy, scikit-learn, statsmodels, scipy
 - **Statistical Analysis**: Chi-squared testing, OLS regression
 - **Data Visualization**: seaborn, matplotlib
 - **Development**: Jupyter Notebook
